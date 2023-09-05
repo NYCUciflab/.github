@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to CIFLAB</h1>
 <h3 align="center">An enthusiastic team at NYCU focuses on medical image analysis and bioinformatics</h3>
 
-![](pxr2.png)
+![](https://github.com/NYCUciflab/.github/blob/main/profile/pxr_glomerulus.gif)
 
 
 
