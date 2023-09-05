@@ -11,7 +11,7 @@
 
 - project 3 **STAS detection**
 
-- Lab publication: Publication<https://github.com/NYCUciflab/Publication>
+- Lab publication: <https://github.com/NYCUciflab/Publication>
 
 - 📫 How to reach me **ifchung@nycu.edu.tw**
 
