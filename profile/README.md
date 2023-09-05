@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to CIFLAB</h1>
 <h3 align="center">An enthusiastic team at NYCU focuses on medical image analysis and bioinformatics</h3>
 
-![](https://github.com/NYCUciflab/.github/tree/main/figure)
+
 
 
 
