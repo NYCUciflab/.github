@@ -25,8 +25,6 @@ Our laboratory cooperates with physicians in many hospitals to develop algorithm
 # Information 
 Lab publication: <https://github.com/NYCUciflab/Publication>
 
-People:
-
 Email: ifchung@nycu.edu.tw
 
 
