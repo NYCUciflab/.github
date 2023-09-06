@@ -13,6 +13,7 @@ Our laboratory cooperates with physicians in many hospitals to develop algorithm
 # Recently research topics
 
 - **Trauma detection through X-ray**
+  
   focus on 
 
 - **Glomerulus segmentation**
@@ -23,7 +24,9 @@ Our laboratory cooperates with physicians in many hospitals to develop algorithm
 
 # Information 
 Lab publication: <https://github.com/NYCUciflab/Publication>
+
 People:
+
 Email: ifchung@nycu.edu.tw
 
 <h3 align="left">Connect with me:</h3>
