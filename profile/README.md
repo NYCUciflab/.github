@@ -14,11 +14,11 @@ Our laboratory cooperates with physicians in many hospitals to develop algorithm
 
 - **Trauma detection through X-ray**
   
-  This project focus on X-ray classification and lesion detection. Our final goal is to develop a comprehensive model which can detect trauma in any type of X-ray. 
-
-- **Glomerulus segmentation**
+  This project focus on X-ray classification and lesion detection. Our final goal is to develop a comprehensive model which can detect trauma in any type of X-ray.
 
 - **STAS detection**
+
+- **Glomerulus segmentation**
 
 - **Diabetic retinopathy detection through fundus**
 
