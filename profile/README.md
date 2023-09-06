@@ -29,7 +29,7 @@ People:
 
 Email: ifchung@nycu.edu.tw
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
