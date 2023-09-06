@@ -10,18 +10,21 @@ Our laboratory cooperates with physicians in many hospitals to develop algorithm
 ### Bioinformatics
 
 
-
 # Recently research topics
 
-- project 1 **X-ray**
+- **Trauma detection through X-ray**
+  focus on 
 
-- project 2 **glomerulus segmentation**
+- **Glomerulus segmentation**
 
-- project 3 **STAS detection**
+- **STAS detection**
 
-- Lab publication: <https://github.com/NYCUciflab/Publication>
+- **Diabetic retinopathy detection through fundus**
 
-- 📫 How to reach me **ifchung@nycu.edu.tw**
+# Information 
+Lab publication: <https://github.com/NYCUciflab/Publication>
+People:
+Email: ifchung@nycu.edu.tw
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
