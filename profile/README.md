@@ -5,7 +5,6 @@
   <img src="https://github.com/NYCUciflab/.github/blob/main/profile/pxr_glumerulus_fundus_fish.gif" />
 </p>
 
-![](https://github.com/NYCUciflab/.github/blob/main/profile/pxr_glumerulus_fundus_fish.gif)
 
 # Description
 
