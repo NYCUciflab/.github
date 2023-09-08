@@ -25,6 +25,8 @@ Our laboratory cooperates with physicians in many hospitals to develop algorithm
 
 - **Diabetic retinopathy detection through fundus**
 
+  This study aims to evaluate the effectiveness of semi-supervised learning in medical imaging by analyzing diabetic retinopathy. Some visualization method such as saliency map has been adopted for the second confirmation.
+
 # Information 
 Lab publication: <https://github.com/NYCUciflab/Publication>
 
