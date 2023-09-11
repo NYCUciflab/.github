@@ -1,4 +1,4 @@
-![image](https://github.com/NYCUciflab/.github/assets/29114977/e48519e7-23ff-435e-92a1-5578eedc5611)<h1 align="center">Welcome to CIFLAB</h1>
+<h1 align="center">Welcome to CIFLAB</h1>
 <h3 align="center">An enthusiastic team at NYCU focuses on medical image analysis and bioinformatics</h3>
 
 <p align="center">
