@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to CIFLAB</h1>
+![image](https://github.com/NYCUciflab/.github/assets/29114977/e48519e7-23ff-435e-92a1-5578eedc5611)<h1 align="center">Welcome to CIFLAB</h1>
 <h3 align="center">An enthusiastic team at NYCU focuses on medical image analysis and bioinformatics</h3>
 
 <p align="center">
@@ -20,6 +20,8 @@ Our laboratory cooperates with physicians in many hospitals to develop algorithm
   This project focus on X-ray image classification and lesion detection. Our final goal is to develop a comprehensive model which can detect trauma in any type of X-ray.
 
 - **STAS detection**
+
+  Develop a computer-aided diagnostic tool which can help pathologists find STAS in pathology images based on deep learning object detection models.
 
 - **Glomerulus segmentation**
 
