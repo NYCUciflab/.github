@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic team at NYCU focuses on medical image analysis and bioinformatics</h3>
 
 <p align="center">
-  <img src="https://github.com/NYCUciflab/.github/blob/main/profile/pxr_glumerulus_fundus_fish.gif" />
+  <img src="https://github.com/NYCUciflab/.github/blob/main/profile/cover.gif" />
 </p>
 
 
