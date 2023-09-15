@@ -11,6 +11,8 @@
 ### Medical image analysis
 Our laboratory cooperates with physicians in many hospitals to develop algorithms suitable for various medical images. The images we analyzed include X-ray, CT, endoscopic, fundus image and pathological image. Current research would focus on auxiliary learning, federated learning, semi-supervised learning and graph convolutional networks.
 ### Bioinformatics
+We focus on adopting various AI models for pharmacogenomics analysis. Here different cancer omics data (expression, mutation, copy number, etc.), and the information of drug chemical/molecular fingerprints and biological pathways are properly encoded to extract useful characteristics for predicting drug response and investigating drug repositioning.
+
 
 
 # Recently research topics
