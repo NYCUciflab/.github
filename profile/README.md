@@ -19,17 +19,17 @@ We focus on adopting various AI models for pharmacogenomics analysis. Here diffe
 
 - **Trauma detection through X-ray**
   
-  ```This project focus on X-ray image classification and lesion detection. Our final goal is to develop a comprehensive model which can detect trauma in any type of X-ray.```
+  This project focus on X-ray image classification and lesion detection. Our final goal is to develop a comprehensive model which can detect trauma in any type of X-ray.
 
 - **STAS detection**
 
-  ```Develop a computer-aided diagnostic tool which can help pathologists find STAS in pathology images based on deep learning object detection models.```
+  Develop a computer-aided diagnostic tool which can help pathologists find STAS in pathology images based on deep learning object detection models.
 
 - **Glomerulus segmentation**
 
 - **Diabetic retinopathy detection through fundus**
 
-  ```This study aims to evaluate the effectiveness of semi-supervised learning in medical imaging by analyzing diabetic retinopathy. Some visualization method such as saliency map has been adopted for the second confirmation.```
+  This study aims to evaluate the effectiveness of semi-supervised learning in medical imaging by analyzing diabetic retinopathy. Some visualization method such as saliency map has been adopted for the second confirmation.
 
 # Information 
 Lab publication: <https://github.com/NYCUciflab/Publication>    
