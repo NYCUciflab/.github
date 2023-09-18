@@ -32,7 +32,8 @@ We focus on adopting various AI models for pharmacogenomics analysis. Here diffe
   This study aims to evaluate the effectiveness of semi-supervised learning in medical imaging by analyzing diabetic retinopathy. Some visualization method such as saliency map has been adopted for the second confirmation.
 
 # Information 
-Lab publication: <https://github.com/NYCUciflab/Publication>
+Lab publication: 
+    <https://github.com/NYCUciflab/Publication>
 
 Email: ifchung@nycu.edu.tw
 
