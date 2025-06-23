@@ -1,9 +1,7 @@
 <h1 align="center">Welcome to CIFLAB</h1>
 <h3 align="center">An enthusiastic team at NYCU focuses on medical image analysis and bioinformatics</h3>
 
-<p align="center">
-  <img src="https://github.com/NYCUciflab/.github/blob/main/profile/cover.gif" />
-</p>
+![](cover.gif)
 
 
 
