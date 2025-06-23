@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic team at NYCU focuses on medical image analysis and bioinformatics</h3>
 
 <p align="center">
-  <img src="cover.gif" width="300" style="border-radius:12px; box-shadow:0 4px 16px rgba(0,0,0,0.1)">
+  <img src="cover.gif" width="1200" style="border-radius:12px; box-shadow:0 4px 16px rgba(0,0,0,0.1)">
 </p>
 
 
