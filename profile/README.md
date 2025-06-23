@@ -33,6 +33,7 @@ We focus on adopting various AI models for pharmacogenomics analysis. Here diffe
 
 # Information 
 Lab publication: <https://github.com/NYCUciflab/Publication>    
+Lab website: <https://nycuciflab.github.io/.github/>
 
 Email: ```ifchung@nycu.edu.tw```
 
